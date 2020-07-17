@@ -9,7 +9,7 @@
 
 
 ### 使用方法
-* 安装requirements：pip3 install -r requrirements.txt
+* 安装requirements：pip3 install -r requirements.txt
 * 在config.py里填入需要设置的值
 * 启动IP代理池：python3 IPProxyPool/IPProxy.py （需要一直在后台运行）
 * 运行主程序：python3 autoreply.py
