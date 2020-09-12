@@ -19,7 +19,7 @@ client_secret = ""
 authorization = ""  # 每次重新登录后都要更新
 headers = {
     "Authorization": "Bearer " + authorization,
-    "User-Agent": "",
+    "User-Agent": "", # 这里也需要填入信息补全
     "Host": "frodo.douban.com",
     "Connection": "Keep-Alive",
     "Accept-Encoding": "gzip",
